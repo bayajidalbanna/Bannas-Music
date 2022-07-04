@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: left;
+    font-size: 40px;
+}
+
+.main {
+    color: cadetblue;
+    border-color: black;
+}
+
+.welcome {
+    background-image: url(image/shapes/Frame\ 58.jpg);
+}
+
+.pre {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-widht {
+    width: 50%;
+    text-align: center;
+}
